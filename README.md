@@ -1,0 +1,1 @@
+CarbonSense is a monitoring system used to monitor carbon emissions from small to large scale industries with energy consumed and the emissions produced by their machinery and generates a live dashboard to monitor the carbon emissions and energy usage, this will effectively help smart energy managements and carbon emissions.
